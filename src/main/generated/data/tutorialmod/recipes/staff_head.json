@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:fire_charge"
+    },
+    "F": {
+      "item": "minecraft:blaze_powder"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "pattern": [
+    "FGF",
+    "GCG",
+    "FGF"
+  ],
+  "result": {
+    "item": "tutorialmod:staff_head"
+  },
+  "show_notification": true
+}

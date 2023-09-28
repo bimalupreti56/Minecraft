@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:lightning_rod"
+    },
+    "F": {
+      "item": "minecraft:blaze_powder"
+    },
+    "G": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "pattern": [
+    "FGF",
+    "GCG",
+    "FGF"
+  ],
+  "result": {
+    "item": "tutorialmod:bolt_head"
+  },
+  "show_notification": true
+}

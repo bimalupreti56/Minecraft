@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "tutorialmod:bimal_ingot"
+    },
+    "H": {
+      "item": "tutorialmod:staff_head"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " BH",
+    " SB",
+    "S  "
+  ],
+  "result": {
+    "item": "tutorialmod:bimal_staff"
+  },
+  "show_notification": true
+}

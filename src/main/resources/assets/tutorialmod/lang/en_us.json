@@ -1,0 +1,26 @@
+{
+  "item.tutorialmod.bimal_shard": "Bimal Shard",
+  "item.tutorialmod.bimal_raw_shard": "Bimal Raw Shard",
+  "item.tutorialmod.metal_detector": "Metal Detector",
+
+  "item.tutorialmod.tomato": "Zaamato",
+  "item.tutorialmod.coal_briquette": "Coal Briquette",
+  "item.tutorialmod.bimal_staff": "BIMARUDES STAFF",
+
+
+  "block.tutorialmod.bimal_block": "Block of Bimal",
+  "block.tutorialmod.bimal_ore": "Block of Bimal Ore",
+
+  "block.tutorialmod.sound_block": "Sound Block",
+
+  "block.tutorialmod.bimal_stairs": "Bimal Stairs",
+  "block.tutorialmod.bimal_slab": "Bimal Slab",
+  "block.tutorialmod.bimal_button": "Bimal Button",
+  "block.tutorialmod.bimal_fence": "Bimal Fence",
+  "block.tutorialmod.bimal_door": "Bimal Door",
+  "block.tutorialmod.bimal_trapdoor": "Bimal Trapdoor",
+
+  "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
+
+  "itemgroup.ruby": "Ruby Tutorial Group"
+}

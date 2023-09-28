@@ -1,0 +1,10 @@
+// 1.20.1	2023-09-07T00:36:33.5754842	Tutorial Mod/Block Loot Tables
+29ce2eef628396fc4223b71f2f69788f20ed086d data\tutorialmod\loot_tables\blocks\bimal_ore.json
+f5d994defcdf516fb4895bfbcdbaeb838f7d98c6 data\tutorialmod\loot_tables\blocks\bimal_door.json
+c07df34521976bc78e61f1e7f679a822ee73e711 data\tutorialmod\loot_tables\blocks\deepslate_bimal_ore.json
+942aaa6cf8dfb7613c63cd435d8ab17ff6db0a62 data\tutorialmod\loot_tables\blocks\bimal_button.json
+c71fa63bd503df4404e6f74af66bc8bd11d1409c data\tutorialmod\loot_tables\blocks\bimal_block.json
+39464470236a988980d313f3adfdee60aac6fc43 data\tutorialmod\loot_tables\blocks\bimal_stairs.json
+35e650d625d896924a75732859b774b2865ddaad data\tutorialmod\loot_tables\blocks\bimal_slab.json
+c20dd103b667fab2e610ad3e83f4387feb275c3e data\tutorialmod\loot_tables\blocks\bimal_fence.json
+1648ae5cf5a42b870d7ff28969a6f893631e5ce7 data\tutorialmod\loot_tables\blocks\bimal_trapdoor.json

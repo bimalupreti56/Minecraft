@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "netherite_ingot",
+  "ingredients": [
+    {
+      "item": "tutorialmod:bimal_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "tutorialmod:bimal_ingot"
+  }
+}

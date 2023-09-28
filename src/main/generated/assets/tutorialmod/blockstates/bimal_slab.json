@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tutorialmod:block/bimal_slab"
+    },
+    "type=double": {
+      "model": "tutorialmod:block/bimal_block"
+    },
+    "type=top": {
+      "model": "tutorialmod:block/bimal_slab_top"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "tutorialmod:adash_ingot"
+    },
+    "S": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "pattern": [
+    "   ",
+    "ASA",
+    "   "
+  ],
+  "result": {
+    "item": "tutorialmod:adash_top"
+  },
+  "show_notification": true
+}

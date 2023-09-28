@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "tutorialmod:adash_bottom"
+    },
+    "M": {
+      "item": "tutorialmod:adash_mid"
+    },
+    "T": {
+      "item": "tutorialmod:adash_top"
+    }
+  },
+  "pattern": [
+    "  T",
+    " M ",
+    "B  "
+  ],
+  "result": {
+    "item": "tutorialmod:adash_sword"
+  },
+  "show_notification": true
+}
